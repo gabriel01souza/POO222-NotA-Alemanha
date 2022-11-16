@@ -1,0 +1,176 @@
+-Composição da equipe: 
+
+Gustavo Westphal Antues e Gabriel Cardoso de Solza
+
+---------------------------------------------------------------------------------
+
+-Lista dos conhecimentos de POO a serem desenvolvidos pela 
+equipe(o que é preciso ainda aprender):
+
+- Entender e relacionar a interface NationalTeamStats;
+- trabalhar com arquivos JSON, e ententer como é identado;
+- trabalhar com GitHub;
+- criação de arquivos .jar;
+- trabalhar com commits;
+
+---------------------------------------------------------------------------------
+
+- Definição da seleção e dados de ao menos 11 jogadores, 
+3 membros da comissão técnica, 2 dirigentes: 
+
+-Jogadores:
+
+  1
+Nome: Cleiton Oriundo das Neves
+Apelido: Cleitin
+Número: 10
+Idade: 37
+Altura: 1.88
+Peso: 90.00
+Aniversário: 1985-07-26
+Posição: goalkeeper
+Clube: Liverpool
+
+  2
+Nome: Humberto Zchwambach
+Apelido: Doisberto
+Número: 12
+Idade: 23
+Altura: 1.85
+Peso: 87.00
+Aniversário: 1993-12-25
+Posição: defender/ center-back
+Clube: Vasco
+
+  3
+Nome: Almir Rante Andante
+Apelido: Tripé
+Número: 09
+Idade: 26
+Altura: 1.75
+Peso: 70.00
+Aniversário: 1996-05-02
+Posição: fullback
+Clube: Flamengo
+
+  4
+Nome: Michael Jackson 
+Apelido: Camaleão
+Número: 04
+Idade: 36
+Altura: 1.87
+Peso: 85.00
+Aniversário: 1986-06-15
+Posição: left back
+Clube: Fluminense
+
+  5
+Nome: Julio Schablaum
+Apelido: Boca Loca 
+Número: 02
+Idade: 34
+Altura: 1.95
+Peso: 96.00
+Aniversário: 1987-08-06
+Posição: right back
+Clube: Borussia
+
+  6
+Nome: Antonio Birilau
+Apelido: Biriba
+Número: 13
+Idade: 23
+Altura: 1.80
+Peso: 84.00
+Aniversário: 1999-07-21
+Posição: midfielder
+Clube: Eintracht Frankfurt
+
+  7
+Nome: Bruno Without Rumo 
+Apelido: Francisco
+Número: 16
+Idade: 27
+Altura: 1.85
+Peso: 90.00
+Aniversário: 1995-06-15
+Posição: Defensive Midfielder
+Clube: Liverpool
+
+  8
+Nome: Alan Bidah
+Apelido: Pé Preto
+Número: 17
+Idade: 37
+Altura: 1.86
+Peso: 85.00
+Aniversário: 1985-04-10
+Posição: attacking midfielder
+Clube: RB Leipzig
+
+  9
+Nome: Muhammad Hassan
+Apelido: Bombástico
+Número: 08
+Idade: 26
+Altura: 1.88
+Peso: 90.00
+Aniversário: 1996-01-22
+Posição: center forward
+Clube: Schalke
+
+  10
+Nome: Bruno Tchum Tiah
+Apelido: Gênio ao contrário
+Número: 22
+Idade: 37
+Altura: 1.98
+Peso: 95.00
+Aniversário: 1985-12-10
+Posição: striker/ forward
+Clube: FC Köln
+
+  11
+Nome: Leandro RedAss
+Apelido: Babuino
+Número: 19
+Idade: 37
+Altura: 1.95
+Peso: 90.00
+Aniversário: 1985-04-14
+Posição: wing/ winger
+Clube: VfB Stuttgart
+
+-Membros da comissão técnica:
+
+  1
+Nome: Luiz da Silva Cachoeira
+Apelido: lulu
+Função: Main coach
+Idade: 67
+
+  2
+Nome: Daniel Bolsonaro  
+Apelido: Lula
+Função: Coach
+Idade: 49
+
+  3
+Nome: Fábio Hugo   
+Apelido: Huguinho
+Função: coach
+Idade: 56
+
+-Dirigentes:
+
+  1
+Nome: Julio Na Gaita
+Telefone 01: (47)99156-7815
+Telefone 02: (47)99152-1516
+Email: julinhoproducoes@gmail.com
+
+  2
+Nome: Bruce Ali
+Telefone 01: (47)9945-4526
+Telefone 02: (47)9956-2536
+Email:brucealieaqui@gmail.com
